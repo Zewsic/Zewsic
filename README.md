@@ -1,7 +1,3 @@
-<p align="center"><a href="https://github.com/zewsic"><img width="80%" alt="Hello, I'm Zewsic" src="./img/hello.png" /></a></p>
-
-<br/>
-
 High-Level Backend Developer
 
 ## About me
