@@ -71,9 +71,3 @@ High-Level Backend Developer
 
 | <a href="https://github.com/zewsic"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Zewsic&show_icons=true&theme=buefy&hide_border=true" alt="zewsic stats" /></a> | <a href="https://github.com/zewsic"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zewsic&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-#### Projects
-
-<a href="https://github.com/ZewMSM/ZewSFS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZewMSM&repo=ZewSFS&theme=buefy" />
-</a>
