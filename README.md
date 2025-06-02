@@ -63,8 +63,8 @@ High-Level Backend Developer
 ### IDE and Code Editors:
 
 <div>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" title="idea" alt="idea" width="40" height="40"/> &nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" title="pycharm" alt="pycharm" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Light.svg" title="idea" alt="idea" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Light.svg" title="pycharm" alt="pycharm" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" title="vscode" alt="vscode" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/WebStorm-Light.svg" title="vscode" alt="vscode" width="40" height="40"/> &nbsp
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0yRUh1zBJ2hnMjNc9FG-oxu-fgzfZanUo4w&s" title="vscode" alt="vscode" width="40" height="40"/> &nbsp
