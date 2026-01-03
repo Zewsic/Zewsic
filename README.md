@@ -3,6 +3,7 @@ High-Level Backend Developer
 ## About me
 
 - **Student** from Kaluga, Russia
+- 7+ years of programming expirience (4+ years of business programming)
 - 🥇 1st place at the Kaluga Regional Championship in **Software Solutions for Business**
 - 🥈 2nd place at the Professionals Group (WorldSkills) Championship in **Software Solutions for Business**
 - **Creator:** MSM Hacks, ZewMSM, ZewDonate
