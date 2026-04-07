@@ -2,7 +2,6 @@ High-Level Backend Developer
 
 ## About me
 
-- **Student** from Kaluga, Russia
 - 8+ years of programming expirience (5+ years of business programming)
 - 🥇 1st place at the Kaluga Regional Championship in **Software Solutions for Business**
 - 🥈 2nd place at the Professionals Group (WorldSkills) Championship in **Software Solutions for Business**
